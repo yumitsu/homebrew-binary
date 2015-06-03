@@ -1,5 +1,5 @@
 class Jtool < Formula
-  desc "jtool is a drop in replacement for otool, nm, strings, and segedit"
+  desc "Drop in replacement for otool, nm, strings, and segedit"
   homepage "http://www.newosxbook.com"
   url "http://www.newosxbook.com/files/jtool.tar"
   version "0.88"
